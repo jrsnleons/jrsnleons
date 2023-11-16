@@ -7,7 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jrsnleons&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jrsnleons&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jrsnleons&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jrsnleons&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </br>
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20364%26project%3D%26in%3D0)](https://codetime.dev)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jrsnleons&icon=0&color=0)](https://visitcount.itsvg.in)
